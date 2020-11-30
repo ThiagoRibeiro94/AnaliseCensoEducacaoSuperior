@@ -1,0 +1,2 @@
+# AnaliseCensoEducacaoSuperior
+Olá, nesse repositório tem um notebook que coleta dados das bases do censo da educação superior. Nele você encontrará um notebook fazendo uma análise sobre o impacto das cotas no número de alunos Negros, Pardos e Indígenas ao longo dos anos. Para usar o notebook, basta baixar as bases do censo e colocar um '_{ANO}' no final do nome (exemplo:DM_ALUNO.CSV -> DM_ALUNO_2017.CSV'
